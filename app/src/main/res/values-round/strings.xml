@@ -1,0 +1,4 @@
+<resources>
+    <string name="hello_world">Hello World!</string>
+    <string name="hatch_id_button">My hatch is...</string>
+</resources>
